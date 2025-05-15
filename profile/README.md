@@ -10,3 +10,9 @@ Core repositories (in alphabetical order):
 - [SCOPer](https://github.com/immcantation/scoper)
 - [SHazaM](https://github.com/immcantation/shazam)
 - [TIgGER](https://github.com/immcantation/tigger)
+
+Other repositories include:
+- [AMULETY](https://github.com/immcantation/amulety)
+- [enchantR](https://github.com/immcantation/enchantr)
+- [IgPhyML](https://github.com/immcantation/igphyml)
+- [UCA](https://github.com/immcantation/UCA)
