@@ -8,6 +8,7 @@ Core repositories (in alphabetical order):
 - [Alakazam](https://github.com/immcantation/alakazam)
 - [Change-O](https://github.com/immcantation/changeo)
 - [Dowser](https://github.com/immcantation/dowser)
+- [Immcantation](https://github.com/immcantation/immcantation)
 - [pRESTO](https://github.com/immcantation/presto)
 - [SCOPer](https://github.com/immcantation/scoper)
 - [SHazaM](https://github.com/immcantation/shazam)
